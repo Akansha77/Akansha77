@@ -2,7 +2,7 @@
 
 🎓 Final year CSE student @ IGDTUW, New Delhi  
 💼 Software Developer Intern @ Ransh Innovations  
-🔍 Open to full-time SDE / full-stack roles from May 2026  
+🔍 Open to full-time SDE / full-stack roles 
 📍 New Delhi, India
 
 ---
@@ -56,8 +56,8 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-URL)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR-LEETCODE-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akansha-chaurasia-47235b260/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Akansha_chaurasia/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:akanshachaurasia0775@gmail.com)
 
 ---
