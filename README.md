@@ -1,9 +1,11 @@
 # Hi, I'm Akansha Chaurasia 👋
 
+**🚀 Final-year Computer Science student passionate about building impactful software and solving challenging problems.**
+**💡 Always learning, always building, and always looking for ways to create meaningful technology.**
+
 🎓 Final year CSE student @ IGDTUW, New Delhi  
 💼 Software Developer Intern @ Ransh Innovations  
 🔍 Open to full-time SDE / full-stack roles 
-📍 New Delhi, India
 
 ---
 
@@ -23,8 +25,6 @@
 |---------|-------------|------|
 | [AASHA](https://github.com/Akansha77/AASHA) | Cloud-based women's safety app with real-time location tracking & emergency alerts for 1,000+ simulated users | Firebase · REST APIs · FCM |
 | [Medication Adherence Analysis](https://github.com/Akansha77) | ML pipeline on 11,000+ patient records to predict non-adherence in diabetes & hypertension | Python · scikit-learn · Pandas |
-| [GBV Trends Dashboard](https://github.com/Akansha77) | Interactive Streamlit dashboard visualizing 13 years of NCRB gender-based violence data across 28 states | Python · Pandas · Streamlit |
-| [FormEase](https://formease.github.io) | Responsive smart form builder for the web | HTML · CSS · JS |
 
 ---
 
@@ -34,16 +34,6 @@
 🌟 **Top 10 Open Source Contributor** — GDSC SnowScript Winter of Code · 17+ merged PRs · 632+ participants  
 🥇 **2nd Place** — AlgoUniversity Graphs Contest  
 🎯 **Top 40** — GDSC Gen AI Study Jams (nationwide)
-
----
-
-## 💼 Experience
-
-**Software Developer Intern** · Ransh Innovations *(Jan 2026 – Present)*  
-→ Building responsive frontend for an English learning platform using Next.js & React
-
-**Python & AI/ML Intern** · AI Club IGDTUW × Coding Minutes *(Jun–Jul 2023)*  
-→ EDA on 10,000+ records · data preprocessing · model evaluation workflows
 
 ---
 
