@@ -49,7 +49,7 @@
 
 ## 📊 GitHub Stats
 
-![Akansha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akansha77&show_icons=true&hide_border=true&theme=default)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Akansha77&hide_border=true)](https://git.io/streak-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akansha77&layout=compact&hide_border=true&theme=default)
 
 ---
