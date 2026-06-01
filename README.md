@@ -1,8 +1,5 @@
 # Hi, I'm Akansha Chaurasia 👋
 
-**🚀 Final-year Computer Science student passionate about building impactful software and solving challenging problems.**
-**💡 Always learning, always building, and always looking for ways to create meaningful technology.**
-
 🎓 Final year CSE student @ IGDTUW, New Delhi  
 💼 Software Developer Intern @ Ransh Innovations  
 🔍 Open to full-time SDE / full-stack roles 
@@ -45,4 +42,4 @@
 
 ---
 
-*"Building things that matter, one commit at a time."*
+*💡 Always learning, always building, and always looking for ways to create meaningful technology.*
