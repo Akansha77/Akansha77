@@ -1,7 +1,7 @@
 # Hi, I'm Akansha Chaurasia 👋
 
-🎓 Final year CSE student @ IGDTUW, New Delhi  
-💼 Software Developer Intern @ Ransh Innovations  
+🎓 Final year CSE student @ IGDTUW 
+💼 Web Developer Intern @ Ransh Innovations  
 🔍 Open to full-time SDE / full-stack roles 
 
 ---
