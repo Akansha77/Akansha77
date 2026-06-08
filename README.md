@@ -21,19 +21,18 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | Engle Learning Platform (Internship) | Built responsive learning interfaces and developed reusable components to enhance user experience on an English-learning platform. | React · Next.js · REST APIs |
-| [AASHA](https://github.com/Akansha77/AASHA) | Built a cloud-based women's safety platform enabling real-time location tracking,
-SOS alerts, and push notifications using Firebase and REST APIs for 2,000+ simulated users | Firebase · REST APIs · FCM |
-| [Medication Adherence Analysis](https://github.com/Akansha77) | ML pipeline on 11,000+ patient records to predict non-adherence in diabetes & hypertension | Python · scikit-learn · Pandas |
+| [AASHA](https://github.com/Akansha77/AASHA) | Built a cloud-based women's safety platform enabling real-time location tracking, SOS alerts, and push notifications for 2,000+ simulated users. | Firebase · REST APIs · FCM |
+| Medication Adherence Analysis | ML pipeline on 11,000+ patient records to predict non-adherence in diabetes & hypertension. | Python · scikit-learn · Pandas |
 
 ---
 
 ## 🏆 Achievements
 
-🥈 **1st Runner-up & Best Women's Team** — Lean In Hacks 4.0 (Microsoft Azure Community) · 1,100+ participants  
-🌟 **Top 10 Open Source Contributor** — GDSC SnowScript Winter of Code · 17+ merged PRs · 632+ participants  
-🥇 **2nd Place** — AlgoUniversity Graphs Contest  
-🎯 **Top 40** — GDSC Gen AI Study Jams (nationwide)
-🚀 **Solved 300+ Problems on Leetcode
+- 🥈 Lean In Hacks 4.0 — 1st Runner-up & Best Women's Team
+- 🌟 GDSC SnowScript WOC — Top 10 Contributor
+- 🥇 AlgoUniversity Graphs Contest — 2nd Place
+- 🎯 GDSC Gen AI Study Jams — Top 40
+- 🚀 300+ DSA Problems Solved on LeetCode
 ---
 
 ## 📫 Let's Connect
