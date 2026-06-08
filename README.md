@@ -1,8 +1,8 @@
 # Hi, I'm Akansha Chaurasia 👋
 
-🎓 Final year CSE student @ IGDTUW -------------------------
-💼 Web Developer Intern @ Ransh Innovations  
-🔍 Open to full-time SDE / full-stack roles 
+🎓 Final year CSE student @ IGDTUW <br>
+💼 Web Developer Intern @ Ransh Innovations <br>
+🔍 Open to full-time SDE / full-stack roles
 
 ---
 
@@ -20,7 +20,9 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [AASHA](https://github.com/Akansha77/AASHA) | Cloud-based women's safety app with real-time location tracking & emergency alerts for 1,000+ simulated users | Firebase · REST APIs · FCM |
+| Engle Learning Platform (Internship) | Built responsive learning interfaces and developed reusable components to enhance user experience on an English-learning platform. | React · Next.js · REST APIs |
+| [AASHA](https://github.com/Akansha77/AASHA) | Built a cloud-based women's safety platform enabling real-time location tracking,
+SOS alerts, and push notifications using Firebase and REST APIs for 2,000+ simulated users | Firebase · REST APIs · FCM |
 | [Medication Adherence Analysis](https://github.com/Akansha77) | ML pipeline on 11,000+ patient records to predict non-adherence in diabetes & hypertension | Python · scikit-learn · Pandas |
 
 ---
@@ -31,7 +33,7 @@
 🌟 **Top 10 Open Source Contributor** — GDSC SnowScript Winter of Code · 17+ merged PRs · 632+ participants  
 🥇 **2nd Place** — AlgoUniversity Graphs Contest  
 🎯 **Top 40** — GDSC Gen AI Study Jams (nationwide)
-
+🚀 **Solved 300+ Problems on Leetcode
 ---
 
 ## 📫 Let's Connect
